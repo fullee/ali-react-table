@@ -1,8 +1,6 @@
 # ali-react-table
 
-## 开发者平时工作实在太忙了，近期项目无法进行积极维护，抱歉。
-
-[![NPM Package](https://img.shields.io/npm/v/ali-react-table?style=flat-square)](https://www.npmjs.org/package/ali-react-table)
+[![NPM Package](https://img.shields.io/npm/v/ali-react-table-plus?style=flat-square)](https://www.npmjs.org/package/ali-react-table-plus)
 
 高性能 React 表格组件. https://ali-react-table.js.org/
 
