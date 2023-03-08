@@ -1,6 +1,6 @@
 {
-  "name": "ali-react-table",
-  "version": "2.6.1",
+  "name": "ali-react-table-plus",
+  "version": "2.7.0",
   "description": "高性能 React 表格组件",
   "sideEffects": false,
   "module": "dist/ali-react-table.esm.js",
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alibaba/ali-react-table.git"
+    "url": "git+https://github.com/fullee/ali-react-table.git"
   },
   "homepage": "https://github.com/alibaba/ali-react-table",
   "author": {
@@ -35,7 +35,7 @@
     "styled-components": "^3.4.10 || ^5.0.1"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.1"
+    "react": "^17.0.1 || ^18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
@@ -43,6 +43,8 @@
     "@babel/preset-typescript": "^7.12.1",
     "@rollup/plugin-node-resolve": "^11.2.0",
     "@types/jest": "^26.0.15",
+    "@types/node": "^18.14.6",
+    "@types/react": "^18.0.28",
     "@types/styled-components": "^5.1.9",
     "jest": "^26.6.0",
     "react": "^16.14.0",
@@ -50,7 +52,8 @@
     "react-is": "^16.13.0",
     "rimraf": "^3.0.2",
     "rollup": "^2.3.1",
-    "rollup-plugin-typescript2": "^0.31.0",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "tslib": "^2.5.0",
     "typescript": "~4.2",
     "xlsx": "^0.16.0"
   }
